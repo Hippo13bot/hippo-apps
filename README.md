@@ -14,6 +14,7 @@
 
 ## Compatibilité
 - Wikhippo : Mac Intel, Mac Apple Silicon et Windows.
+- Inspecteur Gadget : un seul .dmg pour tous les Macs (Intel et Apple Silicon) et un installateur Windows .exe, hébergés sur la release v.1.0.0 du dépôt `Hippo13bot/inspecteur-gadget`.
 - Gandalf OSINT : Mac Apple Silicon ARM64 uniquement. Aucun binaire Mac Intel ou Windows n’a été fourni.
 
 Le fichier Gandalf OSINT fait environ 80 Mo. Le publier comme fichier joint d’une GitHub Release évite d’alourdir le dépôt et contourne la limite d’envoi de fichiers de l’interface web du dépôt.

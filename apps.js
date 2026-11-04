@@ -15,7 +15,16 @@ window.HIPPO_APPS = [
   description:"Télécharge des vidéos et des fichiers audio en choisissant la qualité et le codec souhaités.",
   details:"Gandalf OSINT permet de récupérer des vidéos ou des pistes audio depuis des plateformes en ligne compatibles, avec un choix de qualité et de codec. Utilise-le uniquement pour les contenus que tu es autorisé à télécharger et respecte les conditions des plateformes.",
   iconText:"G", icon:"assets/gandalf.gif", author:"@hippo.reporter",
-  macArm64:"https://github.com/Hippo13bot/hippo-apps/releases/download/v.1.0.0/GandalfOSINT.zip",
+  macArm64:"https://github.com/Hippo13bot/hippo-apps/releases/download/gandalf-v1.0.0/GandalfOSINT-mac-apple-silicon.zip",
   help:"gandalf-installation.html", platformNote:"Compatible uniquement avec les Mac Apple Silicon (puces M1, M2, M3, M4 et générations compatibles). Pas de version Mac Intel ni Windows."
+ }
+ ,{
+  id:"inspecteur-gadget", name:"Inspecteur Gadget", category:"productivity", categoryLabel:"Productivité", version:"1.0.1",
+  description:"Analyse tes images avec l’IA grâce à ta propre clé personnelle.",
+  details:"Inspecteur Gadget analyse tes images avec l’aide d’une IA. Pour cela, tu ajoutes ta propre clé IA dans l’application : le guide d’installation t’explique pas à pas comment l’obtenir et la renseigner, ainsi que les étapes de sécurité propres au Mac.",
+  iconText:"IG", icon:"assets/inspecteur-gadget.gif", iconWide:true, author:"@hippo.reporter",
+  macAll:"https://github.com/Hippo13bot/inspecteur-gadget/releases/download/v.1.0.0/Inspecteur.Gadget-1.0.1-arm64.dmg",
+  windows:"https://github.com/Hippo13bot/inspecteur-gadget/releases/download/v.1.0.0/Inspecteur.Gadget.Setup.1.0.1.exe",
+  help:"inspecteur-gadget-installation.html"
  }
 ];
