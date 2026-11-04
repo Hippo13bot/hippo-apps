@@ -9,5 +9,13 @@ window.HIPPO_APPS = [
   macArm64:"https://github.com/Hippo13bot/Wikhippo/releases/download/v1.0.0/Wikhippo.app.zip.-.dmg.arm64",
   windows:"https://github.com/Hippo13bot/Wikhippo/releases/download/v1.0.0/Wikhippo.Setup.1.0.0.exe",
   help:"installation.html"
+ },
+ {
+  id:"gandalf-osint", name:"Gandalf OSINT", category:"other", categoryLabel:"Multimédia", version:"Mac Apple Silicon",
+  description:"Télécharge des vidéos et des fichiers audio en choisissant la qualité et le codec souhaités.",
+  details:"Gandalf OSINT permet de récupérer des vidéos ou des pistes audio depuis des plateformes en ligne compatibles, avec un choix de qualité et de codec. Utilise-le uniquement pour les contenus que tu es autorisé à télécharger et respecte les conditions des plateformes.",
+  iconText:"G", icon:"assets/gandalf.gif", author:"@hippo.reporter",
+  macArm64:"https://github.com/Hippo13bot/hippo-apps/releases/download/gandalf-v1.0.0/GandalfOSINT-mac-apple-silicon.zip",
+  help:"gandalf-installation.html", platformNote:"Compatible uniquement avec les Mac Apple Silicon (puces M1, M2, M3, M4 et générations compatibles). Pas de version Mac Intel ni Windows."
  }
 ];
