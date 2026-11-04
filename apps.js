@@ -15,7 +15,7 @@ window.HIPPO_APPS = [
   description:"Télécharge des vidéos et des fichiers audio en choisissant la qualité et le codec souhaités.",
   details:"Gandalf OSINT permet de récupérer des vidéos ou des pistes audio depuis des plateformes en ligne compatibles, avec un choix de qualité et de codec. Utilise-le uniquement pour les contenus que tu es autorisé à télécharger et respecte les conditions des plateformes.",
   iconText:"G", icon:"assets/gandalf.gif", author:"@hippo.reporter",
-  macArm64:"https://github.com/Hippo13bot/hippo-apps/releases/download/gandalf-v1.0.0/GandalfOSINT-mac-apple-silicon.zip",
+  macArm64:"https://github.com/Hippo13bot/hippo-apps/releases/download/v.1.0.0/GandalfOSINT.zip",
   help:"gandalf-installation.html", platformNote:"Compatible uniquement avec les Mac Apple Silicon (puces M1, M2, M3, M4 et générations compatibles). Pas de version Mac Intel ni Windows."
  }
 ];
